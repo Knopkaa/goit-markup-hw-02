@@ -106,9 +106,10 @@ body {
   color: #434455;
 }
 .section {
-  background-color: #f4f4ff;
+  background-color: #f4f4fd;
 }
 .start-heading-team {
+  background-color: #f4f4fd;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
