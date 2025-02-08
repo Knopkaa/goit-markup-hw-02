@@ -105,9 +105,10 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-.start-heading-team {
+.section {
   background-color: #f4f4fd;
+}
+.start-heading-team {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
