@@ -41,9 +41,6 @@ body {
 }
 .nav-list-header {
   list-style: none;
-  display: flex;
-  gap: 20px;
-  padding: 0%;
   margin: 0%;
 }
 .nav-header-item {
@@ -108,8 +105,8 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .start-heading-team {
-  background-color: #f4f4fd;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
