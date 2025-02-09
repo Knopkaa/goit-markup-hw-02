@@ -96,6 +96,10 @@ body {
   color: #fff;
   background-color: #4d5ae5;
 }
+.order-text-list:hover,
+.order-text-list:focus {
+  background-color: #404bbf;
+}
 .start-heading {
   font-style: normal;
 }
