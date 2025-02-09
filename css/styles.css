@@ -85,13 +85,13 @@ body {
   color: #fff;
   border: #2e2f42;
 }
-.order {
+.order-text-list {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.07;
   letter-spacing: 0.04em;
   color: #fff;
-  background-color: #4d5ae5;
+  background-color: #2e2f42;
 }
 .start-heading {
   font-style: normal;
