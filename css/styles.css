@@ -76,14 +76,14 @@ body {
   color: #404bbf;
   outline: none;
 }
-.effective {
+.effective-text-list {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background-color: #2e2f42;
+  border: #2e2f42;
 }
 .order {
   font-weight: 500;
