@@ -76,29 +76,33 @@ body {
   color: #404bbf;
   outline: none;
 }
-.effective-text-class {
+.main-header-section {
   background-color: #2e2f42;
 }
-.effective-text-list {
-  font-weight: 700;
+.main-header {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background-color: #2e2f42;
 }
-.order-text-list {
+.button-primary {
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
-  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+  border: none;
 }
-.order-text-list:hover,
-.order-text-list:focus {
+
+.button-primary:hover,
+.button-primary:focus {
   background-color: #404bbf;
+  color: #fff;
+  outline: none;
 }
 .start-heading {
   font-style: normal;
